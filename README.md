@@ -1,7 +1,7 @@
 
 
 <p align="center">
-  <strong><code>퀀트 금융 · 방황하는 해커</code></strong>
+  <strong><code>자산·리스크 관리 · 방황하는 해커</code></strong>
 </p>
 
 <p align="center">
