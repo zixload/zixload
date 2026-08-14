@@ -15,6 +15,8 @@
   <img src="https://img.shields.io/badge/C-ffffff?style=for-the-badge&logo=c&logoColor=black" alt="C" />
   <img src="https://img.shields.io/badge/C%23-000000?style=for-the-badge&logo=csharp&logoColor=white" alt="C sharp" />
   <img src="https://img.shields.io/badge/Rust-ffffff?style=for-the-badge&logo=rust&logoColor=black" alt="Rust" />
+  <img src="https://img.shields.io/badge/C++-000000?style=for-the-badge&logo=C++&logoColor=white" alt="Python" />
+
 </p>
 
 <p align="center">─────</p>
