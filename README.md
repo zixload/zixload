@@ -1,5 +1,6 @@
-
-
+<p align="center">
+  <a href="https://ibb.co/Jj5n1ZWs"><img src="https://i.ibb.co/ZzWdj9RM/wallhaven-5yzd29.png" alt="wallhaven-5yzd29" border="0" /></a>
+</p>
 <p align="center">
   <strong><code>자산·리스크 관리 · 방황하는 해커</code></strong>
 </p>
