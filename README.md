@@ -6,7 +6,8 @@
 </p>
 
 <p align="center">
-  <em>A basic learner.</em>
+  <em>A basic learner — currently diving into: C · C++ · Korean · Reverse Engineering
+</em>
 </p>
 
 <p align="center">
