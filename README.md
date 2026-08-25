@@ -11,27 +11,22 @@
 </p>
 
 <p align="center">
-<a href="https://github.com/zixload?tab=repositories&sort=stargazers">
-  <img src="https://img.shields.io/github/stars/zixload?affiliations=OWNER&style=for-the-badge&color=C58A24&labelColor=000000&logo=github&logoColor=ffffff&cachebust=1" alt="GitHub stars" /></a>
-  <img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/C-ffffff?style=for-the-badge&logo=c&logoColor=black" alt="C" />
-</p>
-
-<p align="center">─────</p>
-
-<p align="center">
-  <em>Some projects are forged in public. Others remain in the shadows.</em>
-</p>
-
-<p align="center">
   <img
-    src="https://raw.githubusercontent.com/zixload/github-stats-transparent/output/generated/overview-monochrome.svg"
+    src="https://raw.githubusercontent.com/zixload/github-stats-transparent/output/generated/overview-compact.svg"
     width="49%"
     alt="GitHub statistics"
   />
   <img
-    src="https://raw.githubusercontent.com/zixload/github-stats-transparent/output/generated/languages-monochrome.svg"
+    src="https://raw.githubusercontent.com/zixload/github-stats-transparent/output/generated/languages-compact.svg"
     width="49%"
     alt="Most used languages"
   />
 </p>
+
+<a href="https://zixwatch.duckdns.org/now-playing">
+  <img
+    src="https://zixwatch.duckdns.org/now-playing.svg"
+    width="100%"
+    alt="Currently listening"
+  />
+</a>
