@@ -13,7 +13,7 @@
 </p>
 
 <p align="center">
-  <em>A basic learner — C · Korean · Reverse Engineering</em>
+  <em>A basic learner — C · Reverse Engineering</em>
 </p>
 
 <p align="center">
