@@ -25,12 +25,12 @@
 
 <p align="center">
   <img
-    src="https://raw.githubusercontent.com/zixload/github-stats-transparent/output/generated/overview.svg"
+    src="https://raw.githubusercontent.com/zixload/github-stats-transparent/output/generated/overview-monochrome.svg"
     width="49%"
     alt="GitHub statistics"
   />
   <img
-    src="https://raw.githubusercontent.com/zixload/github-stats-transparent/output/generated/languages.svg"
+    src="https://raw.githubusercontent.com/zixload/github-stats-transparent/output/generated/languages-monochrome.svg"
     width="49%"
     alt="Most used languages"
   />
