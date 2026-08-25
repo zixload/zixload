@@ -24,5 +24,5 @@
 </p>
 
 <a href="https://zixwatch.duckdns.org/now-playing">
-  <img src="https://zixwatch.duckdns.org/now-playing.svg?v=6" width="100%" alt="currently listening" />
+  <img src="https://zixwatch.duckdns.org/now-playing.svg?v=6" width="95%" alt="currently listening" />
 </a>
