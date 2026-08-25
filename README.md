@@ -43,7 +43,7 @@
 <p align="center">
   <a href="https://zixwatch.duckdns.org/now-playing">
     <img
-      src="https://zixwatch.duckdns.org/now-playing.svg?v=8"
+      src="https://zixwatch.duckdns.org/now-playing.svg?v=9"
       width="97%"
       alt="currently listening"
     />
