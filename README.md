@@ -22,3 +22,6 @@
 <p align="center">
   <em>Some projects are forged in public. Others remain in the shadows.</em>
 </p>
+<p align="center">─────</p>
+
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=zixload&layout=compact&theme=transparent&hide_border=true&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
