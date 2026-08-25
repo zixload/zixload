@@ -41,12 +41,12 @@
 
 <p align="center">
   <img
-    src="https://raw.githubusercontent.com/zixload/github-stats-transparent/output/generated/overview-compact.svg"
+    src="https://raw.githubusercontent.com/zixload/github-stats-transparent/output/generated/overview-compact.svg?v=space-mono"
     width="49%"
     alt="GitHub statistics"
   />
   <img
-    src="https://raw.githubusercontent.com/zixload/github-stats-transparent/output/generated/languages-compact.svg"
+    src="https://raw.githubusercontent.com/zixload/github-stats-transparent/output/generated/languages-compact.svg?v=space-mono"
     width="49%"
     alt="Most used languages"
   />
@@ -55,7 +55,7 @@
 <p align="center">
   <a href="https://zixwatch.duckdns.org/now-playing">
     <img
-      src="https://zixwatch.duckdns.org/now-playing.svg?v=7"
+      src="https://zixwatch.duckdns.org/now-playing.svg?v=8"
       width="97%"
       alt="currently listening"
     />
