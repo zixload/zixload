@@ -38,18 +38,6 @@
 <p align="center">
   <em>Some projects are forged in public. Others remain in the shadows.</em>
 </p>
-
-<p align="center">
-  <img
-    src="https://raw.githubusercontent.com/zixload/github-stats-transparent/output/generated/overview-compact.svg?v=space-mono"
-    width="49%"
-    alt="GitHub statistics"
-  />
-  <img
-    src="https://raw.githubusercontent.com/zixload/github-stats-transparent/output/generated/languages-compact.svg?v=space-mono"
-    width="49%"
-    alt="Most used languages"
-  />
 </p>
 
 <p align="center">
