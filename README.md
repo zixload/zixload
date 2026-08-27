@@ -17,20 +17,10 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/zixload?tab=repositories&amp;sort=stargazers">
-    <img
-      src="https://img.shields.io/github/stars/zixload?affiliations=OWNER&amp;style=for-the-badge&amp;color=C58A24&amp;labelColor=000000&amp;logo=github&amp;logoColor=ffffff&amp;cachebust=1"
-      alt="GitHub stars"
-    />
-  </a>
-  <img
-    src="https://img.shields.io/badge/Python-000000?style=for-the-badge&amp;logo=python&amp;logoColor=white"
-    alt="Python"
-  />
-  <img
-    src="https://img.shields.io/badge/C-ffffff?style=for-the-badge&amp;logo=c&amp;logoColor=black"
-    alt="C"
-  />
+  <a href="https://github.com/zixload?tab=repositories&amp;sort=stargazers"><img src="https://img.shields.io/github/stars/zixload?affiliations=OWNER&amp;style=for-the-badge&amp;color=000000&amp;labelColor=ffffff&amp;logo=github&amp;logoColor=000000" alt="GitHub stars" /></a>
+  <img src="https://komarev.com/ghpvc/?username=zixload&amp;label=PROFILE+VIEWS&amp;color=000000&amp;style=for-the-badge" alt="Profile views" />
+  <img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&amp;logo=python&amp;logoColor=ffffff" alt="Python" />
+  <img src="https://img.shields.io/badge/C-ffffff?style=for-the-badge&amp;logo=c&amp;logoColor=000000" alt="C" />
 </p>
 
 <p align="center">─────</p>
